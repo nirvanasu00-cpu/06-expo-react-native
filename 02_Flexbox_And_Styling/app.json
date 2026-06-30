@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "02 Flexbox And Styling",
+    "slug": "02_Flexbox_And_Styling",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.demo.02_flexbox_and_styling" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" }, "package": "com.demo.02_flexbox_and_styling" }
+  }
+}

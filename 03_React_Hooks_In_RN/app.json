@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "03 React Hooks In RN",
+    "slug": "03_React_Hooks_In_RN",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.demo.03_react_hooks_in_rn" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" }, "package": "com.demo.03_react_hooks_in_rn" }
+  }
+}

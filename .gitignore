@@ -1,0 +1,40 @@
+node_modules/
+.expo/
+dist/
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+.env
+package-lock.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Scratch files
+cloud.md
+tmp.md
+04_Lists_And_Scroll 
+05_Navigation_Routing 
+06_Form_And_Validation 
+07_Global_State_Management 
+08_Network_Requests 
+09_Auth_Flow 
+10_Offline_Storage 
+11_Camera_And_Media 
+12_Location_And_Map 
+13_File_System_And_Upload 
+14_Push_Notifications 
+15_Sensors_And_Haptics 
+16_Animations_And_Gestures 
+17_Native_Modules 
+18_Performance_Optimization 
+19_Testing 
+20_EAS_Build_And_Deploy
