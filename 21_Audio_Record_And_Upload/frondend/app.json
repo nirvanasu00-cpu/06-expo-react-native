@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "21 Audio Record And Upload",
+    "slug": "21_Audio_Record_And_Upload",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.demo.21_audio_record_and_upload" },
+    "android": { "adaptiveIcon": { "backgroundColor": "#ffffff" }, "package": "com.demo.21_audio_record_and_upload" },
+    "plugins": ["expo-audio"]
+  }
+}
